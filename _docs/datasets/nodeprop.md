@@ -18,7 +18,7 @@ g { color: rgb(27, 158, 119) }
 
 Scale | Name      | Package          | #Nodes  | #Edges\* | #Steps | Surprise  | Metric    |
 |:---------:|:--------|:-----:|----------------:|----------------------:|---------------------:|:-------------------------:|
-<r>Small</r> | [tgbn-trade](#tgbn-trade) | 0.8.0  | 254  | 468,245  | 32       | 0.023      | NDCG@10 |
+<r>Small</r> | [tgbn-trade](#tgbn-trade) | 0.8.0  | 254  | 468,245  | 31       | 0.023      | NDCG@10 |
 <b>Medium</b> | [tgbn-genre](#tgbn-genre) | 0.8.0  | 1,505 | 17,858,395| 133,758       | 0.005  | NDCG@10 |
 <g>Large</g> | [tgbn-reddit](#tgbn-reddit) | 0.8.0  | 11,766  | 27,174,118 |  21,889,537    | 0.013      | NDCG@10 |
 <g>Large</g> | [tgbn-token](#tgbn-token) | 0.9.0  | 61,756  | 72,936,998 |  2,036,524    | 0.014      | NDCG@10 |
