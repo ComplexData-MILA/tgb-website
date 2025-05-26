@@ -28,8 +28,7 @@ The **bold** method name indicates that the implementation is **official** (by t
 |  2  |  **NAT**  | 0.749 ± 0.010   | 0.773 ± 0.011 | [TGB team](mailto:shenyang.huang@mail.mcgill.ca) | [Paper](https://openreview.net/pdf?id=EPUtNe7a9ta), [Code](https://github.com/shenyangHuang/TGB) | August 22nd, 2023 |
 |  3 |  **TNCN**  | 0.718 ± 0.001   | 0.741 ± 0.001 | [Xiaohui Zhang (PKU)](mailto:huihuang@stu.pku.edu.cn) | [Paper](https://arxiv.org/pdf/2406.07926), [Code](https://github.com/GraphPKU/TNCN) | August 25th, 2024 |
 |  4  |  **CAWN**  | 0.711 ± 0.006   | 0.743 ± 0.004 | [TGB team](mailto:shenyang.huang@mail.mcgill.ca) | [Paper](http://snap.stanford.edu/caw/), [Code](https://github.com/shenyangHuang/TGB) | July 27th, 2023 |
-|  5  |  **CTAN**  | 0.668 ± 0.007 | - | [Alessio Gravina (University of Pisa)](mailto:alessio.gravina@di.unipi.it
-) | [Paper](https://proceedings.mlr.press/v235/gravina24a.html), [Code](https://github.com/gravins/non-dissipative-propagation-CTDGs/tree/main?tab=readme-ov-file) | May 26th, 2025 |
+|  5  |  **CTAN**  | 0.668 ± 0.007 | - | [Alessio Gravina (University of Pisa)](mailto:alessio.gravina@di.unipi.it) | [Paper](https://proceedings.mlr.press/v235/gravina24a.html), [Code](https://github.com/gravins/non-dissipative-propagation-CTDGs/tree/main?tab=readme-ov-file) | May 26th, 2025 |
 |  6  |  **EdgeBank(tw)**  | 0.571   | 0.600 |[TGB team](mailto:shenyang.huang@mail.mcgill.ca) | [Paper](https://openreview.net/forum?id=1GVpwr2Tfdg), [Code](https://github.com/shenyangHuang/TGB) | July 27th, 2023 |
 |  7  |  **EdgeBank(unlimited)**  |  0.495   |  0.527 |[TGB team](mailto:shenyang.huang@mail.mcgill.ca) | [Paper](https://openreview.net/forum?id=1GVpwr2Tfdg), [Code](https://github.com/shenyangHuang/TGB) | July 27th, 2023 |
 |  8  |  **HTGN(UTG)**  |  0.464 ± 0.005 |  0.523 ± 0.005 |[Shenyang Huang (McGill University)](mailto:shenyang.huang@mail.mcgill.ca) | [Paper](https://openreview.net/forum?id=ZKHV6Cpsxg), [Code](https://github.com/shenyangHuang/UTG) | Feb 27th, 2025 |
@@ -60,8 +59,7 @@ The **bold** method name indicates that the implementation is **official** (by t
 | Rank  | Method | Test MRR | Validation MRR | Contact | References | Date 
 |:----:|:-----:|:------:|:-----:|:-----:|:-----:|-----:|
 |  1  |  **GraphMixer**  | 0.521 ± 0.015   | 0.428 ± 0.019 |[TGB team](mailto:shenyang.huang@mail.mcgill.ca) | [Paper](https://openreview.net/forum?id=ayPPc0SyLv1), [Code](https://github.com/shenyangHuang/TGB) | July 27th, 2023 |
-|  2  |  **CTAN**  | 0.405 ± 0.004 | - | [Alessio Gravina (University of Pisa)](mailto:alessio.gravina@di.unipi.it
-) | [Paper](https://proceedings.mlr.press/v235/gravina24a.html), [Code](https://github.com/gravins/non-dissipative-propagation-CTDGs/tree/main?tab=readme-ov-file) | May 26th, 2025 |
+|  2  |  **CTAN**  | 0.405 ± 0.004 | - | [Alessio Gravina (University of Pisa)](mailto:alessio.gravina@di.unipi.it) | [Paper](https://proceedings.mlr.press/v235/gravina24a.html), [Code](https://github.com/gravins/non-dissipative-propagation-CTDGs/tree/main?tab=readme-ov-file) | May 26th, 2025 |
 |  3 |  **TNCN**  | 0.377 ± 0.010   | 0.325 ± 0.003 | [Xiaohui Zhang (PKU)](mailto:huihuang@stu.pku.edu.cn) | [Paper](https://arxiv.org/pdf/2406.07926), [Code](https://github.com/GraphPKU/TNCN) | August 25th, 2024 |
 |  4  |  **TGAT**  | 0.355 ± 0.012   | 0.324 ± 0.006 |[TGB team](mailto:shenyang.huang@mail.mcgill.ca) | [Paper](https://arxiv.org/pdf/2002.07962.pdf), [Code](https://github.com/shenyangHuang/TGB) | August 22th, 2023 |
 |  5  |  **TGN**  | 0.349 ± 0.020   | 0.313 ± 0.012 |[TGB team](mailto:shenyang.huang@mail.mcgill.ca) | [Paper](https://arxiv.org/abs/2006.10637), [Code](https://github.com/shenyangHuang/TGB) | July 27th, 2023 |
@@ -97,8 +95,7 @@ The **bold** method name indicates that the implementation is **official** (by t
 |:----:|:-----:|:------:|:-----:|:-----:|:-----:|-----:|
 |  1 |  **TNCN**  | 0.762 ± 0.004   | 0.740 ± 0.002 | [Xiaohui Zhang (PKU)](mailto:huihuang@stu.pku.edu.cn) | [Paper](https://arxiv.org/pdf/2406.07926), [Code](https://github.com/GraphPKU/TNCN) | August 25th, 2024 |
 |  2  |  **DyGFormer**  | 0.752 ± 0.004   | 0.730 ± 0.002 | [Le Yu (Beihang University)](mailto:yule@buaa.edu.cn) | [Paper](https://openreview.net/forum?id=xHNzWHbklj), [Code](https://github.com/yule-BUAA/DyGLib_TGB) | November 2nd, 2023 |
-|  3  |  **CTAN**  | 0.748 ± 0.004 | - | [Alessio Gravina (University of Pisa)](mailto:alessio.gravina@di.unipi.it
-) | [Paper](https://proceedings.mlr.press/v235/gravina24a.html), [Code](https://github.com/gravins/non-dissipative-propagation-CTDGs/tree/main?tab=readme-ov-file) | May 26th, 2025 |
+|  3  |  **CTAN**  | 0.748 ± 0.004 | - | [Alessio Gravina (University of Pisa)](mailto:alessio.gravina@di.unipi.it) | [Paper](https://proceedings.mlr.press/v235/gravina24a.html), [Code](https://github.com/gravins/non-dissipative-propagation-CTDGs/tree/main?tab=readme-ov-file) | May 26th, 2025 |
 |  4  |  **TGN**  | 0.586 ± 0.037   | 0.607 ± 0.014 |[TGB team](mailto:shenyang.huang@mail.mcgill.ca) | [Paper](https://arxiv.org/abs/2006.10637), [Code](https://github.com/shenyangHuang/TGB) | September 27th, 2023 |
 |  5  |  **EdgeBank(tw)**  | 0.580   |   0.492 |[TGB team](mailto:shenyang.huang@mail.mcgill.ca) | [Paper](https://openreview.net/forum?id=1GVpwr2Tfdg), [Code](https://github.com/shenyangHuang/TGB) | September 27th, 2023 |
 |  6  |  **DyRep**  | 0.452 ± 0.046   | 0.512 ± 0.014 |[TGB team](mailto:shenyang.huang@mail.mcgill.ca) | [Paper](https://openreview.net/forum?id=HyePrhR5KX), [Code](https://github.com/shenyangHuang/TGB) | September 27th, 2023 |
@@ -120,8 +117,7 @@ The **bold** method name indicates that the implementation is **official** (by t
 | Rank  | Method | Test MRR | Validation MRR | Contact | References | Date 
 |:----:|:-----:|:------:|:-----:|:-----:|:-----:|-----:|
 |  1 |  **TNCN**  | 0.697 ± 0.006   | 0.643 ± 0.003 | [Xiaohui Zhang (PKU)](mailto:huihuang@stu.pku.edu.cn) | [Paper](https://arxiv.org/pdf/2406.07926), [Code](https://github.com/GraphPKU/TNCN) | August 25th, 2024 |
-|  2  |  **CTAN**  | 0.671 ± 0.067 | - | [Alessio Gravina (University of Pisa)](mailto:alessio.gravina@di.unipi.it
-) | [Paper](https://proceedings.mlr.press/v235/gravina24a.html), [Code](https://github.com/gravins/non-dissipative-propagation-CTDGs/tree/main?tab=readme-ov-file) | May 26th, 2025 |
+|  2  |  **CTAN**  | 0.671 ± 0.067 | - | [Alessio Gravina (University of Pisa)](mailto:alessio.gravina@di.unipi.it) | [Paper](https://proceedings.mlr.press/v235/gravina24a.html), [Code](https://github.com/gravins/non-dissipative-propagation-CTDGs/tree/main?tab=readme-ov-file) | May 26th, 2025 |
 |  3  |  **DyGFormer**  | 0.670 ± 0.001   | 0.613 ± 0.003 | [Le Yu (Beihang University)](mailto:yule@buaa.edu.cn) | [Paper](https://openreview.net/forum?id=xHNzWHbklj), [Code](https://github.com/yule-BUAA/DyGLib_TGB) | September 21st, 2023 |
 |  4  |  **TGN**  | 0.379 ± 0.021  | 0.356 ± 0.019 |[TGB team](mailto:shenyang.huang@mail.mcgill.ca) | [Paper](https://arxiv.org/abs/2006.10637), [Code](https://github.com/shenyangHuang/TGB) | June 7th, 2023 |
 |  5  |  **DyRep**  | 0.289 ± 0.033   | 0.291 ± 0.028 |[TGB team](mailto:shenyang.huang@mail.mcgill.ca) | [Paper](https://openreview.net/forum?id=HyePrhR5KX), [Code](https://github.com/shenyangHuang/TGB) | June 7th, 2023 |
