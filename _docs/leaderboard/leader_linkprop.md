@@ -108,21 +108,15 @@ The **bold** method name indicates that the implementation is **official** (by t
 
 | Rank  | Method | Test MRR | Validation MRR | Contact | References | Date 
 |:----:|:-----:|:------:|:-----:|:-----:|:-----:|-----:|
-|  1 |  **TNCN**  | 0.762 ± 0.004   | 0.740 ± 0.002 | [Xiaohui Zhang (PKU)](mailto:huihuang@stu.pku.edu.cn) | [Paper](https://arxiv.org/pdf/2406.07926), [Code](https://github.com/GraphPKU/TNCN) | August 25th, 2024 |
-|  2  |  **DyGFormer**  | 0.752 ± 0.004   | 0.730 ± 0.002 | [Le Yu (Beihang University)](mailto:yule@buaa.edu.cn) | [Paper](https://openreview.net/forum?id=xHNzWHbklj), [Code](https://github.com/yule-BUAA/DyGLib_TGB) | November 2nd, 2023 |
-|  3  |  **CTAN**  | 0.748 ± 0.004 | - | [Alessio Gravina (University of Pisa)](mailto:alessio.gravina@di.unipi.it) | [Paper](https://proceedings.mlr.press/v235/gravina24a.html), [Code](https://github.com/gravins/non-dissipative-propagation-CTDGs/tree/main?tab=readme-ov-file) | May 26th, 2025 |
-|  4  |  **TGN**  | 0.586 ± 0.037   | 0.607 ± 0.014 |[TGB team](mailto:shenyang.huang@mail.mcgill.ca) | [Paper](https://arxiv.org/abs/2006.10637), [Code](https://github.com/shenyangHuang/TGB) | September 27th, 2023 |
-|  5  |  **EdgeBank(tw)**  | 0.580   |   0.492 |[TGB team](mailto:shenyang.huang@mail.mcgill.ca) | [Paper](https://openreview.net/forum?id=1GVpwr2Tfdg), [Code](https://github.com/shenyangHuang/TGB) | September 27th, 2023 |
-|  6  |  **DyRep**  | 0.452 ± 0.046   | 0.512 ± 0.014 |[TGB team](mailto:shenyang.huang@mail.mcgill.ca) | [Paper](https://openreview.net/forum?id=HyePrhR5KX), [Code](https://github.com/shenyangHuang/TGB) | September 27th, 2023 |
-|  7  |  **EdgeBank(unlimited)**  | 0.359   |  0.315 |[TGB team](mailto:shenyang.huang@mail.mcgill.ca) | [Paper](https://openreview.net/forum?id=1GVpwr2Tfdg), [Code](https://github.com/shenyangHuang/TGB) | September 27th, 2023 |
 |  1  |  **TPNet**  | 0.832 ± 0.001  | 0.796 ± 0.0035 | [Xiaodong Lu (Beihang University)](mailto:xiaodonglu@buaa.edu.cn) | [Paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/ff7bf6014f7826da531aa50f4538ee19-Paper-Conference.pdf), [Code](https://github.com/lxd99/TGB_TPNet) | August 14th, 2025 |
 |  2  |  **HyperEvent**  | 0.773 ± 0.002  | 0.750 ± 0.002 | [Jian Gao (Xidian)](mailto:gaojian@xidian.edu.cn) | [Paper](https://arxiv.org/abs/2507.11836), [Code](https://github.com/jianjianGJ/HyperEvent) | August 14th, 2025 |
-|  3 |  **TNCN**  | 0.762 ± 0.004   | 0.740 ± 0.002 | [Xiaohui Zhang (PKU)](mailto:huihuang@stu.pku.edu.cn) | [Paper](https://arxiv.org/pdf/2406.07926), [Code](https://github.com/GraphPKU/TNCN) | August 25th, 2024 |
+|  3  |  **TNCN**  | 0.762 ± 0.004   | 0.740 ± 0.002 | [Xiaohui Zhang (PKU)](mailto:huihuang@stu.pku.edu.cn) | [Paper](https://arxiv.org/pdf/2406.07926), [Code](https://github.com/GraphPKU/TNCN) | August 25th, 2024 |
 |  4  |  **DyGFormer**  | 0.752 ± 0.004   | 0.730 ± 0.002 | [Le Yu (Beihang University)](mailto:yule@buaa.edu.cn) | [Paper](https://openreview.net/forum?id=xHNzWHbklj), [Code](https://github.com/yule-BUAA/DyGLib_TGB) | November 2nd, 2023 |
-|  5  |  **TGN**  | 0.586 ± 0.037   | 0.607 ± 0.014 |[TGB team](mailto:shenyang.huang@mail.mcgill.ca) | [Paper](https://arxiv.org/abs/2006.10637), [Code](https://github.com/shenyangHuang/TGB) | September 27th, 2023 |
-|  6  |  **EdgeBank(tw)**  | 0.580   |   0.492 |[TGB team](mailto:shenyang.huang@mail.mcgill.ca) | [Paper](https://openreview.net/forum?id=1GVpwr2Tfdg), [Code](https://github.com/shenyangHuang/TGB) | September 27th, 2023 |
-|  7  |  **DyRep**  | 0.452 ± 0.046   | 0.512 ± 0.014 |[TGB team](mailto:shenyang.huang@mail.mcgill.ca) | [Paper](https://openreview.net/forum?id=HyePrhR5KX), [Code](https://github.com/shenyangHuang/TGB) | September 27th, 2023 |
-|  8  |  **EdgeBank(unlimited)**  | 0.359   |  0.315 |[TGB team](mailto:shenyang.huang@mail.mcgill.ca) | [Paper](https://openreview.net/forum?id=1GVpwr2Tfdg), [Code](https://github.com/shenyangHuang/TGB) | September 27th, 2023 |
+|  5  |  **CTAN**  | 0.748 ± 0.004 | - | [Alessio Gravina (University of Pisa)](mailto:alessio.gravina@di.unipi.it) | [Paper](https://proceedings.mlr.press/v235/gravina24a.html), [Code](https://github.com/gravins/non-dissipative-propagation-CTDGs/tree/main?tab=readme-ov-file) | May 26th, 2025 |
+|  6  |  **TGN**  | 0.586 ± 0.037   | 0.607 ± 0.014 |[TGB team](mailto:shenyang.huang@mail.mcgill.ca) | [Paper](https://arxiv.org/abs/2006.10637), [Code](https://github.com/shenyangHuang/TGB) | September 27th, 2023 |
+|  7  |  **EdgeBank(tw)**  | 0.580   |   0.492 |[TGB team](mailto:shenyang.huang@mail.mcgill.ca) | [Paper](https://openreview.net/forum?id=1GVpwr2Tfdg), [Code](https://github.com/shenyangHuang/TGB) | September 27th, 2023 |
+|  8  |  **DyRep**  | 0.452 ± 0.046   | 0.512 ± 0.014 |[TGB team](mailto:shenyang.huang@mail.mcgill.ca) | [Paper](https://openreview.net/forum?id=HyePrhR5KX), [Code](https://github.com/shenyangHuang/TGB) | September 27th, 2023 |
+|  9  |  **EdgeBank(unlimited)**  | 0.359   |  0.315 |[TGB team](mailto:shenyang.huang@mail.mcgill.ca) | [Paper](https://openreview.net/forum?id=1GVpwr2Tfdg), [Code](https://github.com/shenyangHuang/TGB) | September 27th, 2023 |
 
 <!-- |  1  |  **TGR-TNCN**  | 0.783 ± 0.033  | 0.769 ± 0.025 |[Katarina Petrović (University of Oxford)](mailto:katarina.petrovic@st-hildas.ox.ac.uk) | [Paper](https://arxiv.org/abs/2406.02362), [Code](https://github.com/kpetrovicc/TGR) | October 23rd, 2024 -->
 
@@ -139,7 +133,6 @@ The **bold** method name indicates that the implementation is **official** (by t
 
 | Rank  | Method | Test MRR | Validation MRR | Contact | References | Date 
 |:----:|:-----:|:------:|:-----:|:-----:|:-----:|-----:|
-
 |  1  |  **TPNet**  | 0.825 ± 0.006  | 0.769 ± 0.011 | [Xiaodong Lu (Beihang University)](mailto:xiaodonglu@buaa.edu.cn) | [Paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/ff7bf6014f7826da531aa50f4538ee19-Paper-Conference.pdf), [Code](https://github.com/lxd99/TGB_TPNet) | August 14th, 2025 |
 |  2  |  **HyperEvent**  | 0.760 ± 0.002  | 0.715 ± 0.003 | [Jian Gao (Xidian)](mailto:gaojian@xidian.edu.cn) | [Paper](https://arxiv.org/abs/2507.11836), [Code](https://github.com/jianjianGJ/HyperEvent) | August 14th, 2025 |
 |  3  |  **TNCN**  | 0.697 ± 0.006   | 0.643 ± 0.003 | [Xiaohui Zhang (PKU)](mailto:huihuang@stu.pku.edu.cn) | [Paper](https://arxiv.org/pdf/2406.07926), [Code](https://github.com/GraphPKU/TNCN) | August 25th, 2024 |
