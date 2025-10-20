@@ -27,12 +27,13 @@ For previous version of leaderboards, please see [the link](../leader_nodeprop_o
 
 | Rank  | Method | Test NDCG@10  | Validation NDCG@10  | Contact | References | Date 
 |:----:|:-----:|:------:|:-----:|:-----:|:-----:|-----:|
-|  1  |  **Persistent Forecast**  | 0.855  | 0.860 |[TGB team](mailto:shenyang.huang@mail.mcgill.ca) | [Paper](https://arxiv.org/abs/2307.01026), [Code](https://github.com/shenyangHuang/TGB) | August 6th, 2023 |
-|  2  |  **Moving Average**  | 0.823  | 0.841 |[TGB team](mailto:shenyang.huang@mail.mcgill.ca) | [Paper](https://arxiv.org/abs/2307.01026), [Code](https://github.com/shenyangHuang/TGB) | August 6th, 2023 |
-|  3  |  **TGNv2**  | 0.735  | 0.807 |[Benedict Aaron Tjandra(University of Oxford)](mailto:aaron_tjandra@yahoo.com) | [Paper](https://arxiv.org/pdf/2411.03596), [Code](https://github.com/batjandra/TGNv2-NeurReps) | November 15th, 2024 |
-|  4  |  **DyGFormer**  | 0.388 ± 0.006   | 0.408 ± 0.006 | [Le Yu (Beihang University)](mailto:yule@buaa.edu.cn) | [Paper](https://openreview.net/forum?id=xHNzWHbklj), [Code](https://github.com/yule-BUAA/DyGLib_TGB) | August 22nd, 2023 |
-|  5  |  **TGN**  | 0.374 ± 0.001  | 0.395 ± 0.002 |[TGB team](mailto:shenyang.huang@mail.mcgill.ca) | [Paper](https://arxiv.org/abs/2006.10637), [Code](https://github.com/shenyangHuang/TGB) | August 6th, 2023 |
-|  6  |  **DyRep**  | 0.374 ± 0.001   | 0.394 ± 0.001 |[TGB team](mailto:shenyang.huang@mail.mcgill.ca) | [Paper](https://openreview.net/forum?id=HyePrhR5KX), [Code](https://github.com/shenyangHuang/TGB) | August 6th, 2023 |
+|  1  |  **NAVIS**  | 0.863  | 0.860 |[Or Feldman (BGU)](mailto:orfel@post.bgu.ac.il) | [Paper](https://arxiv.org/abs/2510.06940), [Code](https://github.com/orfeld415/NAVIS) | October 20th, 2025 |
+|  2  |  **Persistent Forecast**  | 0.855  | 0.860 |[TGB team](mailto:shenyang.huang@mail.mcgill.ca) | [Paper](https://arxiv.org/abs/2307.01026), [Code](https://github.com/shenyangHuang/TGB) | August 6th, 2023 |
+|  3  |  **Moving Average**  | 0.823  | 0.841 |[TGB team](mailto:shenyang.huang@mail.mcgill.ca) | [Paper](https://arxiv.org/abs/2307.01026), [Code](https://github.com/shenyangHuang/TGB) | August 6th, 2023 |
+|  4  |  **TGNv2**  | 0.735  | 0.807 |[Benedict Aaron Tjandra(University of Oxford)](mailto:aaron_tjandra@yahoo.com) | [Paper](https://arxiv.org/pdf/2411.03596), [Code](https://github.com/batjandra/TGNv2-NeurReps) | November 15th, 2024 |
+|  5  |  **DyGFormer**  | 0.388 ± 0.006   | 0.408 ± 0.006 | [Le Yu (Beihang University)](mailto:yule@buaa.edu.cn) | [Paper](https://openreview.net/forum?id=xHNzWHbklj), [Code](https://github.com/yule-BUAA/DyGLib_TGB) | August 22nd, 2023 |
+|  6  |  **TGN**  | 0.374 ± 0.001  | 0.395 ± 0.002 |[TGB team](mailto:shenyang.huang@mail.mcgill.ca) | [Paper](https://arxiv.org/abs/2006.10637), [Code](https://github.com/shenyangHuang/TGB) | August 6th, 2023 |
+|  7  |  **DyRep**  | 0.374 ± 0.001   | 0.394 ± 0.001 |[TGB team](mailto:shenyang.huang@mail.mcgill.ca) | [Paper](https://openreview.net/forum?id=HyePrhR5KX), [Code](https://github.com/shenyangHuang/TGB) | August 6th, 2023 |
 
 
 
@@ -46,12 +47,13 @@ For previous version of leaderboards, please see [the link](../leader_nodeprop_o
 
 | Rank  | Method | Test NDCG@10 | Validation NDCG@10 | Contact | References | Date 
 |:----:|:-----:|:------:|:-----:|:-----:|:-----:|-----:|
-|  1  |  **Moving Average**  | 0.509  |  0.499 |[TGB team](mailto:shenyang.huang@mail.mcgill.ca) | [Paper](https://arxiv.org/abs/2307.01026), [Code](https://github.com/shenyangHuang/TGB) | August 6th, 2023 |
-|  2  |  **TGNv2**  | 0.469  | 0.481 |[Benedict Aaron Tjandra(University of Oxford)](mailto:aaron_tjandra@yahoo.com) | [Paper](https://arxiv.org/pdf/2411.03596), [Code](https://github.com/batjandra/TGNv2-NeurReps) | November 15th, 2024 |
-|  3  |  **TGN**  | 0.367 ± 0.058  | 0.403 ± 0.010 |[TGB team](mailto:shenyang.huang@mail.mcgill.ca) | [Paper](https://arxiv.org/abs/2006.10637), [Code](https://github.com/shenyangHuang/TGB) | August 6th, 2023 |
-|  4  |  **DyGFormer**  | 0.365 ± 0.002   | 0.371 ± 0.001 | [Le Yu (Beihang University)](mailto:yule@buaa.edu.cn) | [Paper](https://openreview.net/forum?id=xHNzWHbklj), [Code](https://github.com/yule-BUAA/DyGLib_TGB) | August 22nd, 2023 |
-|  5  |  **Persistent Forecast**  | 0.357  | 0.350 |[TGB team](mailto:shenyang.huang@mail.mcgill.ca) | [Paper](https://arxiv.org/abs/2307.01026), [Code](https://github.com/shenyangHuang/TGB) | August 6th, 2023 |
-|  6  |  **DyRep**  | 0.351 ± 0.001   | 0.357 ± 0.001 |[TGB team](mailto:shenyang.huang@mail.mcgill.ca) | [Paper](https://openreview.net/forum?id=HyePrhR5KX), [Code](https://github.com/shenyangHuang/TGB) | August 6th, 2023 |
+|  1  |  **NAVIS**  | 0.528  | 0.517 |[Or Feldman (BGU)](mailto:orfel@post.bgu.ac.il) | [Paper](https://arxiv.org/abs/2510.06940), [Code](https://github.com/orfeld415/NAVIS) | October 20th, 2025 |
+|  2  |  **Moving Average**  | 0.509  |  0.499 |[TGB team](mailto:shenyang.huang@mail.mcgill.ca) | [Paper](https://arxiv.org/abs/2307.01026), [Code](https://github.com/shenyangHuang/TGB) | August 6th, 2023 |
+|  3  |  **TGNv2**  | 0.469  | 0.481 |[Benedict Aaron Tjandra(University of Oxford)](mailto:aaron_tjandra@yahoo.com) | [Paper](https://arxiv.org/pdf/2411.03596), [Code](https://github.com/batjandra/TGNv2-NeurReps) | November 15th, 2024 |
+|  4  |  **TGN**  | 0.367 ± 0.058  | 0.403 ± 0.010 |[TGB team](mailto:shenyang.huang@mail.mcgill.ca) | [Paper](https://arxiv.org/abs/2006.10637), [Code](https://github.com/shenyangHuang/TGB) | August 6th, 2023 |
+|  5  |  **DyGFormer**  | 0.365 ± 0.002   | 0.371 ± 0.001 | [Le Yu (Beihang University)](mailto:yule@buaa.edu.cn) | [Paper](https://openreview.net/forum?id=xHNzWHbklj), [Code](https://github.com/yule-BUAA/DyGLib_TGB) | August 22nd, 2023 |
+|  6  |  **Persistent Forecast**  | 0.357  | 0.350 |[TGB team](mailto:shenyang.huang@mail.mcgill.ca) | [Paper](https://arxiv.org/abs/2307.01026), [Code](https://github.com/shenyangHuang/TGB) | August 6th, 2023 |
+|  7  |  **DyRep**  | 0.351 ± 0.001   | 0.357 ± 0.001 |[TGB team](mailto:shenyang.huang@mail.mcgill.ca) | [Paper](https://openreview.net/forum?id=HyePrhR5KX), [Code](https://github.com/shenyangHuang/TGB) | August 6th, 2023 |
 
 
 
@@ -66,12 +68,13 @@ For previous version of leaderboards, please see [the link](../leader_nodeprop_o
 
 | Rank  | Method | Test NDCG@10 | Validation NDCG@10 | Contact | References | Date 
 |:----:|:-----:|:------:|:-----:|:-----:|:-----:|-----:|
-|  1  |  **Moving Average**  | 0.559  |  0.574  |[TGB team](mailto:shenyang.huang@mail.mcgill.ca) | [Paper](https://arxiv.org/abs/2307.01026), [Code](https://github.com/shenyangHuang/TGB) | August 6th, 2023 |
-|  2  |  **TGNv2**  | 0.507  | 0.544 |[Benedict Aaron Tjandra(University of Oxford)](mailto:aaron_tjandra@yahoo.com) | [Paper](https://arxiv.org/pdf/2411.03596), [Code](https://github.com/batjandra/TGNv2-NeurReps) | November 15th, 2024 |
-|  3  |  **Persistent Forecast**  |  0.369 |   0.380 |[TGB team](mailto:shenyang.huang@mail.mcgill.ca) | [Paper](https://arxiv.org/abs/2307.01026), [Code](https://github.com/shenyangHuang/TGB) | August 6th, 2023 |
-|  4  |  **DyGFormer**  | 0.316 ± 0.001   | 0.348 ± 0.001 | [Le Yu (Beihang University)](mailto:yule@buaa.edu.cn) | [Paper](https://openreview.net/forum?id=xHNzWHbklj), [Code](https://github.com/yule-BUAA/DyGLib_TGB) | August 22nd, 2023 |
-|  5  |  **TGN**  | 0.315 ± 0.020  | 0.379 ± 0.004 |[TGB team](mailto:shenyang.huang@mail.mcgill.ca) | [Paper](https://arxiv.org/abs/2006.10637), [Code](https://github.com/shenyangHuang/TGB) | August 6th, 2023 |
-|  6  |  **DyRep**  | 0.312 ± 0.001   | 0.344 ± 0.001 |[TGB team](mailto:shenyang.huang@mail.mcgill.ca) | [Paper](https://openreview.net/forum?id=HyePrhR5KX), [Code](https://github.com/shenyangHuang/TGB) | August 6th, 2023 |
+|  1  |  **NAVIS**  | 0.569  | 0.584 |[Or Feldman (BGU)](mailto:orfel@post.bgu.ac.il) | [Paper](https://arxiv.org/abs/2510.06940), [Code](https://github.com/orfeld415/NAVIS) | October 20th, 2025 |
+|  2  |  **Moving Average**  | 0.559  |  0.574  |[TGB team](mailto:shenyang.huang@mail.mcgill.ca) | [Paper](https://arxiv.org/abs/2307.01026), [Code](https://github.com/shenyangHuang/TGB) | August 6th, 2023 |
+|  3  |  **TGNv2**  | 0.507  | 0.544 |[Benedict Aaron Tjandra(University of Oxford)](mailto:aaron_tjandra@yahoo.com) | [Paper](https://arxiv.org/pdf/2411.03596), [Code](https://github.com/batjandra/TGNv2-NeurReps) | November 15th, 2024 |
+|  4  |  **Persistent Forecast**  |  0.369 |   0.380 |[TGB team](mailto:shenyang.huang@mail.mcgill.ca) | [Paper](https://arxiv.org/abs/2307.01026), [Code](https://github.com/shenyangHuang/TGB) | August 6th, 2023 |
+|  5  |  **DyGFormer**  | 0.316 ± 0.001   | 0.348 ± 0.001 | [Le Yu (Beihang University)](mailto:yule@buaa.edu.cn) | [Paper](https://openreview.net/forum?id=xHNzWHbklj), [Code](https://github.com/yule-BUAA/DyGLib_TGB) | August 22nd, 2023 |
+|  6  |  **TGN**  | 0.315 ± 0.020  | 0.379 ± 0.004 |[TGB team](mailto:shenyang.huang@mail.mcgill.ca) | [Paper](https://arxiv.org/abs/2006.10637), [Code](https://github.com/shenyangHuang/TGB) | August 6th, 2023 |
+|  7  |  **DyRep**  | 0.312 ± 0.001   | 0.344 ± 0.001 |[TGB team](mailto:shenyang.huang@mail.mcgill.ca) | [Paper](https://openreview.net/forum?id=HyePrhR5KX), [Code](https://github.com/shenyangHuang/TGB) | August 6th, 2023 |
 
 
 
@@ -88,8 +91,9 @@ For previous version of leaderboards, please see [the link](../leader_nodeprop_o
 
 | Rank  | Method | Test NDCG@10 | Validation NDCG@10 | Contact | References | Date 
 |:----:|:-----:|:------:|:-----:|:-----:|:-----:|-----:|
-|  1  |  **Moving Average**  | 0.508  |  0.491   |[TGB team](mailto:shenyang.huang@mail.mcgill.ca) | [Paper](https://arxiv.org/abs/2307.01026), [Code](https://github.com/shenyangHuang/TGB) | September 27th, 2023 |
-|  2  |  **Persistent Forecast**  |  0.430 |   0.403 |[TGB team](mailto:shenyang.huang@mail.mcgill.ca) | [Paper](https://arxiv.org/abs/2307.01026), [Code](https://github.com/shenyangHuang/TGB) | September 27th, 2023 |
-|  3  |  **TGNv2**  | 0.294  | 0.321 |[Benedict Aaron Tjandra(University of Oxford)](mailto:aaron_tjandra@yahoo.com) | [Paper](https://arxiv.org/pdf/2411.03596), [Code](https://github.com/batjandra/TGNv2-NeurReps) | November 15th, 2024 |
-|  4  |  **TGN**  | 0.169 ± 0.006  | 0.189 ±  0.005 |[TGB team](mailto:shenyang.huang@mail.mcgill.ca) | [Paper](https://arxiv.org/abs/2006.10637), [Code](https://github.com/shenyangHuang/TGB) | September 27th, 2023 |
-|  5  |  **DyRep**  | 0.141 ±  0.006   | 0.151 ±  0.006 |[TGB team](mailto:shenyang.huang@mail.mcgill.ca) | [Paper](https://openreview.net/forum?id=HyePrhR5KX), [Code](https://github.com/shenyangHuang/TGB) | September 27th, 2023 |
+|  1  |  **NAVIS**  | 0.513  | 0.493 |[Or Feldman (BGU)](mailto:orfel@post.bgu.ac.il) | [Paper](https://arxiv.org/abs/2510.06940), [Code](https://github.com/orfeld415/NAVIS) | October 20th, 2025 |
+|  2  |  **Moving Average**  | 0.508  |  0.491   |[TGB team](mailto:shenyang.huang@mail.mcgill.ca) | [Paper](https://arxiv.org/abs/2307.01026), [Code](https://github.com/shenyangHuang/TGB) | September 27th, 2023 |
+|  3  |  **Persistent Forecast**  |  0.430 |   0.403 |[TGB team](mailto:shenyang.huang@mail.mcgill.ca) | [Paper](https://arxiv.org/abs/2307.01026), [Code](https://github.com/shenyangHuang/TGB) | September 27th, 2023 |
+|  4  |  **TGNv2**  | 0.294  | 0.321 |[Benedict Aaron Tjandra(University of Oxford)](mailto:aaron_tjandra@yahoo.com) | [Paper](https://arxiv.org/pdf/2411.03596), [Code](https://github.com/batjandra/TGNv2-NeurReps) | November 15th, 2024 |
+|  5  |  **TGN**  | 0.169 ± 0.006  | 0.189 ±  0.005 |[TGB team](mailto:shenyang.huang@mail.mcgill.ca) | [Paper](https://arxiv.org/abs/2006.10637), [Code](https://github.com/shenyangHuang/TGB) | September 27th, 2023 |
+|  6  |  **DyRep**  | 0.141 ±  0.006   | 0.151 ±  0.006 |[TGB team](mailto:shenyang.huang@mail.mcgill.ca) | [Paper](https://openreview.net/forum?id=HyePrhR5KX), [Code](https://github.com/shenyangHuang/TGB) | September 27th, 2023 |
