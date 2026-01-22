@@ -25,7 +25,7 @@ The **bold** method name indicates that the implementation is **official** (by t
 | Rank  | Method | Test MRR | Validation MRR | Contact | References | Date 
 |:----:|:-----:|:------:|:-----:|:-----:|:-----:|-----:|
 |  1  |  **TPNet**  | 0.827 ± 0.001  | 0.842 ± 0.001 | [Xiaodong Lu (Beihang University)](mailto:xiaodonglu@buaa.edu.cn) | [Paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/ff7bf6014f7826da531aa50f4538ee19-Paper-Conference.pdf), [Code](https://github.com/lxd99/TGB_TPNet) | August 14th, 2025 |
-|  2  |  **Heuristic(LocalGlobal)**  | 0.821  | 0.842 | [Oleg Smirnov (Microsoft)](mailto:oleg.smirnov@microsoft.com) | [Paper](https://proceedings.mlr.press/v296/cornell25a.html), [Code](https://github.com/king/graph-heuristics) | January 20th, 2026 |
+|  2  |  **Heuristic(LocalGlobal)**  | 0.821  | 0.842 | [King AI Labs team](mailto:ai-labs@king.com) | [Paper](https://proceedings.mlr.press/v296/cornell25a.html), [Code](https://github.com/king/graph-heuristics) | January 20th, 2026 |
 |  3  |  **HyperEvent**  | 0.810 ± 0.002  | 0.824 ± 0.002 | [Jian Gao (Xidian)](mailto:gaojian@xidian.edu.cn) | [Paper](https://arxiv.org/abs/2507.11836), [Code](https://github.com/jianjianGJ/HyperEvent) | August 14th, 2025 |
 |  4  |  **DyGFormer**  | 0.798 ± 0.004   | 0.816 ± 0.005 | [Le Yu (Beihang University)](mailto:yule@buaa.edu.cn) | [Paper](https://openreview.net/forum?id=xHNzWHbklj), [Code](https://github.com/yule-BUAA/DyGLib_TGB) | August 22nd, 2023 |
 |  5  |  **NAT**  | 0.749 ± 0.010   | 0.773 ± 0.011 | [TGB team](mailto:shenyang.huang@mail.mcgill.ca) | [Paper](https://openreview.net/pdf?id=EPUtNe7a9ta), [Code](https://github.com/shenyangHuang/TGB) | August 22nd, 2023 |
@@ -111,7 +111,7 @@ The **bold** method name indicates that the implementation is **official** (by t
 | Rank  | Method | Test MRR | Validation MRR | Contact | References | Date 
 |:----:|:-----:|:------:|:-----:|:-----:|:-----:|-----:|
 |  1  |  **TPNet**  | 0.832 ± 0.001  | 0.796 ± 0.0035 | [Xiaodong Lu (Beihang University)](mailto:xiaodonglu@buaa.edu.cn) | [Paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/ff7bf6014f7826da531aa50f4538ee19-Paper-Conference.pdf), [Code](https://github.com/lxd99/TGB_TPNet) | August 14th, 2025 |
-|  2  |  **Heuristic(LocalRecencyLocalPopularity)**  | 0.774  | 0.743 | [Oleg Smirnov (Microsoft)](mailto:oleg.smirnov@microsoft.com) | [Paper](https://proceedings.mlr.press/v296/cornell25a.html), [Code](https://github.com/king/graph-heuristics) | January 20th, 2026 |
+|  2  |  **Heuristic(LocalRecencyLocalPopularity)**  | 0.774  | 0.743 | [King AI Labs team](mailto:ai-labs@king.com) | [Paper](https://proceedings.mlr.press/v296/cornell25a.html), [Code](https://github.com/king/graph-heuristics) | January 20th, 2026 |
 |  3  |  **HyperEvent**  | 0.773 ± 0.002  | 0.750 ± 0.002 | [Jian Gao (Xidian)](mailto:gaojian@xidian.edu.cn) | [Paper](https://arxiv.org/abs/2507.11836), [Code](https://github.com/jianjianGJ/HyperEvent) | August 14th, 2025 |
 |  4  |  **TNCN**  | 0.762 ± 0.004   | 0.740 ± 0.002 | [Xiaohui Zhang (PKU)](mailto:huihuang@stu.pku.edu.cn) | [Paper](https://arxiv.org/pdf/2406.07926), [Code](https://github.com/GraphPKU/TNCN) | August 25th, 2024 |
 |  5  |  **DyGFormer**  | 0.752 ± 0.004   | 0.730 ± 0.002 | [Le Yu (Beihang University)](mailto:yule@buaa.edu.cn) | [Paper](https://openreview.net/forum?id=xHNzWHbklj), [Code](https://github.com/yule-BUAA/DyGLib_TGB) | November 2nd, 2023 |
@@ -138,7 +138,7 @@ The **bold** method name indicates that the implementation is **official** (by t
 |:----:|:-----:|:------:|:-----:|:-----:|:-----:|-----:|
 |  1  |  **TPNet**  | 0.825 ± 0.006  | 0.769 ± 0.011 | [Xiaodong Lu (Beihang University)](mailto:xiaodonglu@buaa.edu.cn) | [Paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/ff7bf6014f7826da531aa50f4538ee19-Paper-Conference.pdf), [Code](https://github.com/lxd99/TGB_TPNet) | August 14th, 2025 |
 |  2  |  **HyperEvent**  | 0.760 ± 0.002  | 0.715 ± 0.003 | [Jian Gao (Xidian)](mailto:gaojian@xidian.edu.cn) | [Paper](https://arxiv.org/abs/2507.11836), [Code](https://github.com/jianjianGJ/HyperEvent) | August 14th, 2025 |
-|  3  |  **Heuristic(GlobalRecency)**  | 0.723  | 0.684 | [Oleg Smirnov (Microsoft)](mailto:oleg.smirnov@microsoft.com) | [Paper](https://proceedings.mlr.press/v296/cornell25a.html), [Code](https://github.com/king/graph-heuristics) | January 20th, 2026 |
+|  3  |  **Heuristic(GlobalRecency)**  | 0.723  | 0.684 | [King AI Labs team](mailto:ai-labs@king.com) | [Paper](https://proceedings.mlr.press/v296/cornell25a.html), [Code](https://github.com/king/graph-heuristics) | January 20th, 2026 |
 |  4  |  **TNCN**  | 0.697 ± 0.006   | 0.643 ± 0.003 | [Xiaohui Zhang (PKU)](mailto:huihuang@stu.pku.edu.cn) | [Paper](https://arxiv.org/pdf/2406.07926), [Code](https://github.com/GraphPKU/TNCN) | August 25th, 2024 |
 |  5  |  **CTAN**  | 0.671 ± 0.067 | - | [Alessio Gravina (University of Pisa)](mailto:alessio.gravina@di.unipi.it) | [Paper](https://proceedings.mlr.press/v235/gravina24a.html), [Code](https://github.com/gravins/non-dissipative-propagation-CTDGs/tree/main?tab=readme-ov-file) | May 26th, 2025 |
 |  6  |  **DyGFormer**  | 0.670 ± 0.001   | 0.613 ± 0.003 | [Le Yu (Beihang University)](mailto:yule@buaa.edu.cn) | [Paper](https://openreview.net/forum?id=xHNzWHbklj), [Code](https://github.com/yule-BUAA/DyGLib_TGB) | September 21st, 2023 |
@@ -167,7 +167,7 @@ The **bold** method name indicates that the implementation is **official** (by t
 | Rank  | Method | Test MRR | Validation MRR | Contact | References | Date 
 |:----:|:-----:|:------:|:-----:|:-----:|:-----:|-----:|
 |  1  |  **TPNet**  | 0.884 ± 0.001  | 0.892 ± 0.001 | [Xiaodong Lu (Beihang University)](mailto:xiaodonglu@buaa.edu.cn) | [Paper](https://proceedings.neurips.cc/paper_files/paper/2024/file/ff7bf6014f7826da531aa50f4538ee19-Paper-Conference.pdf), [Code](https://github.com/lxd99/TGB_TPNet) | August 14th, 2025 |
-|  2  |  **Heuristic(LocalRecencyLocalPopularity)**  | 0.878  | 0.884 | [Oleg Smirnov (Microsoft)](mailto:oleg.smirnov@microsoft.com) | [Paper](https://proceedings.mlr.press/v296/cornell25a.html), [Code](https://github.com/king/graph-heuristics) | January 20th, 2026 |
+|  2  |  **Heuristic(LocalRecencyLocalPopularity)**  | 0.878  | 0.884 | [King AI Labs team](mailto:ai-labs@king.com) | [Paper](https://proceedings.mlr.press/v296/cornell25a.html), [Code](https://github.com/king/graph-heuristics) | January 20th, 2026 |
 |  3  |  **HyperEvent**  | 0.877 ± 0.003  | 0.885 ± 0.003 | [Jian Gao (Xidian)](mailto:gaojian@xidian.edu.cn) | [Paper](https://arxiv.org/abs/2507.11836), [Code](https://github.com/jianjianGJ/HyperEvent) | August 14th, 2025 |
 |  4  |  **TNCN**  | 0.820 ± 0.004   | 0.831 ± 0.003 | [Xiaohui Zhang (PKU)](mailto:huihuang@stu.pku.edu.cn) | [Paper](https://arxiv.org/pdf/2406.07926), [Code](https://github.com/GraphPKU/TNCN) | August 25th, 2024 |
 |  5  |  **TGN**  | 0.705 ± 0.020  | 0.731 ± 0.010 |[TGB team](mailto:shenyang.huang@mail.mcgill.ca) | [Paper](https://arxiv.org/abs/2006.10637), [Code](https://github.com/shenyangHuang/TGB) | September 27th, 2023 |
